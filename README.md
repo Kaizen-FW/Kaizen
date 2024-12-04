@@ -9,8 +9,6 @@ Apologies for the oversight! Below is the revised `README.md` file, including th
 
 # Kaizen Agent Framework
 
-![Kaizen Agent Framework Logo](./frontend/public/logo.png)
-
 Welcome to the **Kaizen Agent Framework**, an innovative platform designed to promote continuous improvement and engagement through dynamic, self-evolving systems. This project combines FastAPI and React to offer a modern web application for self-improvement tracking, user engagement, and gamification.
 
 Connect with us: [Kaizen_Ai_Sol on X](https://x.com/Kaizen_Ai_Sol)
