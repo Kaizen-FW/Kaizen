@@ -1,0 +1,1 @@
+# Placeholder content for smart-contracts/staking/src/lib.rs
