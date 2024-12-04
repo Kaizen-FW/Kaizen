@@ -1,4 +1,31 @@
-fastapi
-uvicorn
-scikit-learn
-pandas
+# Backend (FastAPI)
+fastapi==0.95.0  # FastAPI framework
+uvicorn==0.22.0  # ASGI server to run FastAPI
+sqlalchemy==2.0.0  # ORM for database management
+psycopg2==2.9.6  # PostgreSQL adapter for Python (adjust if using other DB)
+pydantic==1.10.7  # Data validation and settings management
+alembic==1.10.3  # Database migrations (if using SQLAlchemy)
+requests==2.28.2  # HTTP library for sending API requests
+
+# Backend (for JSON Web Tokens, if applicable)
+pyjwt==2.7.0  # JWT handling (for authentication)
+
+# Optional libraries
+python-dotenv==0.21.0  # To load environment variables from a .env file
+loguru==0.6.0  # Logging package for better logging management
+pytest==7.2.2  # Testing framework (if using for unit testing)
+
+# Frontend (React and Webpack)
+webpack==5.77.0  # Module bundler for frontend assets
+webpack-cli==5.0.0  # CLI for webpack
+react==18.2.0  # React library
+react-dom==18.2.0  # React DOM for rendering components
+babel-loader==9.1.0  # Babel loader to transpile JS
+@babel/preset-env==7.21.4  # Babel preset for compiling modern JavaScript
+@babel/preset-react==7.18.6  # Babel preset for React JSX
+style-loader==3.3.1  # Loader for injecting CSS into the DOM
+css-loader==6.7.3  # CSS loader for webpack
+html-webpack-plugin==5.5.0  # Generates an HTML file to include the webpack bundles
+
+# Frontend (Optional for environment setup)
+dotenv-webpack==7.0.0  # Webpack plugin for handling .env files in React
