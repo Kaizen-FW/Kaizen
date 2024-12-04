@@ -1,0 +1,1 @@
+# Placeholder content for models/tracking_model.py
