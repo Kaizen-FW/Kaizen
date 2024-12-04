@@ -128,7 +128,7 @@ kaizen-agent-framework/
 Contributions are welcome! Feel free to fork the repository and submit a pull request with your changes or improvements.
 
 ## License
-This project is licensed under the MIT License. See the LICENSE file for more details.
+This project is licensed under the Apache-2.0. See the LICENSE file for more details.
 
 ---
 
