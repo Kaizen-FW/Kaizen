@@ -1,1 +1,59 @@
+{
+  "user_engagements": [
+    {
+      "engagement_id": "eng001",
+      "user_id": "user001",
+      "activity": "completed_task",
+      "timestamp": "2024-12-01T10:30:00Z",
+      "details": {
+        "task_id": "task001",
+        "points_earned": 50
+      }
+    },
+    {
+      "engagement_id": "eng002",
+      "user_id": "user002",
+      "activity": "joined_event",
+      "timestamp": "2024-12-02T14:00:00Z",
+      "details": {
+        "event_id": "event001",
+        "event_name": "Hackathon"
+      }
+    }
+  ],
+  "improvement_suggestions": [
+    {
+      "suggestion_id": "imp001",
+      "description": "Add dark mode to the UI",
+      "impact_score": 8.5,
+      "status": "pending"
+    },
+    {
+      "suggestion_id": "imp002",
+      "description": "Improve API response time by optimizing database queries",
+      "impact_score": 9.0,
+      "status": "in-progress"
+    }
+  ],
+  "evolution_tasks": [
+    {
+      "task_id": "task001",
+      "description": "Implement user feedback loop",
+      "status": "in-progress",
+      "progress": 45.0
+    },
+    {
+      "task_id": "task002",
+      "description": "Develop reward-based gamification system",
+      "status": "pending",
+      "progress": 0.0
+    },
+    {
+      "task_id": "task003",
+      "description": "Optimize backend infrastructure for scalability",
+      "status": "completed",
+      "progress": 100.0
+    }
+  ]
+}
 # Placeholder content for data/sample_data.json
