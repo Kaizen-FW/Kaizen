@@ -1,11 +1,5 @@
-Here is the updated **README** file for your project, incorporating the provided image and link:
-
----
-
 # ![Kaizen Logo](1500x500.jpg)  
-Apologies for the oversight! Below is the revised `README.md` file, including the logo image and the **X handle** link as discussed.
 
----
 
 # Kaizen Agent Framework
 
